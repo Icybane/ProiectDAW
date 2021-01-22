@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Structură tabel pentru tabel `tbl_user_comments`
 --
-
+ 
 CREATE TABLE `tbl_user_comments` (
   `id` int(50) NOT NULL,
   `username` varchar(50) NOT NULL,
